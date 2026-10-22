@@ -1,9 +1,11 @@
-# Track only plugin sources and the required project files.
+# Track plugin sources, required project files, and the approved READMEs.
 /*
 !/.gitignore
 !/.clang-format
 !/DEPENDENCIES.json
 !/xmake.lua
+!/README.md
+!/README.zh-CN.md
 !/src/
 /src/*
 !/src/*.h
