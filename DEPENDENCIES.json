@@ -1,0 +1,29 @@
+{
+  "CommonLibSSE": {
+    "repository": "https://github.com/Yirb-due-ux/CommonLibSSE",
+    "commit": "baf21a5470d49bd620194f5c549e73ee46ae7e29",
+    "path": "external/CommonLibSSE"
+  },
+  "SafetyHook": {
+    "repository": "https://github.com/cursey/safetyhook",
+    "version": "v0.7.0",
+    "commit": "19223663fb8a573253ffb2e82da87cc354bf5c16",
+    "path": "external/SafetyHook"
+  },
+  "Zydis": {
+    "repository": "https://github.com/zyantific/zydis",
+    "version": "v4.1.0",
+    "commit": "569320ad3c4856da13b9dbf1f0d9e20bda63870e",
+    "path": "external/Zydis"
+  },
+  "Zycore": {
+    "repository": "https://github.com/zyantific/zycore-c",
+    "commit": "74620eefd233bec20daeb66e78e744ff06e273b7",
+    "path": "external/Zydis/dependencies/zycore"
+  },
+  "Xbyak": {
+    "repository": "https://github.com/herumi/xbyak",
+    "version": "v7.06",
+    "archiveSha256": "2d4b312769d3ff12b26ede3e9b105d336ae2b6c7ad3175921acc1ed001213a63"
+  }
+}

@@ -1,0 +1,10 @@
+# Track only plugin sources and the required project files.
+/*
+!/.gitignore
+!/.clang-format
+!/DEPENDENCIES.json
+!/xmake.lua
+!/src/
+/src/*
+!/src/*.h
+!/src/*.cpp

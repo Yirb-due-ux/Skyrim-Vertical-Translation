@@ -1,0 +1,22 @@
+BasedOnStyle: Microsoft
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForIndentation
+ColumnLimit: 110
+PointerAlignment: Left
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+InsertBraces: true
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+  AfterNamespace: true
+  AfterStruct: true
+  AfterClass: true
+  AfterEnum: true
+  AfterControlStatement: Never
+  BeforeElse: false
+  BeforeCatch: false
+SortIncludes: Never
+SeparateDefinitionBlocks: Always
